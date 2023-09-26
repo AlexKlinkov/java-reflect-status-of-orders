@@ -1,0 +1,5 @@
+myapp:
+  external-resources:
+    url: put_your_url
+  variable:
+    basic-authorization-key: put_your_authorization_key

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RK7QueryResult ServerVersion="7.7.0.212" XmlVersion="118" NetName="SRV217" Status="Ok" Processed="1" ArrivalDateTime="2023-07-16T16:21:15">
+    <CommandResult CMD="YOURPOSTQUERY" lastversion="2601" Status="Ok" ErrorText="" DateTime="2023-07-16T16:21:15" WorkTime="0">
+        <Visit visit="3061457979" guid="{7B031B63-A7GD-4720-9C2D-B8C610BD45F4}" finished="0">
+            <Guests count="1">
+                <Guest guestLabel="1"/>
+            </Guests>
+            <Orders>
+                <Order visit="561447971" orderIdent="256" guid="{5F74CD7D-455F-4C86-954D-B874B2AC84CC}" url="http://code.uss.ru/qr?id=8D41FFG3FFBB4B6D92D9B068ABFAF43C5F74CD7D455F4C86854DB874B2AC84CC89560811" orderName="3" version="2" crc32="-2007923613" orderSum="152700" unpaidSum="141700" discountSum="0" totalPieces="3000" seqNumber="1" paid="0" finished="0" openTime="2023-07-16T22:48:23" kdsstate="sent" dontcheckLicense="1">
+                    <Creator id="1022476" code="212" name="Ivanov">
+                        <Role id="1102800" code="10011" name="Администраторы"/>
+                    </Creator>
+                    <Waiter id="1022476" code="212" name="Ivanov">
+                        <Role id="1103800" code="10011" name="Администраторы"/>
+                    </Waiter>
+                    <OrderCategory id="1106953" code="8" name="Основная 20%"/>
+                    <OrderType id="1126326" code="3" name="На месте"/>
+                    <Table id="1067888" code="5163" name="3"/>
+                    <Station id="15498" code="1" name="RK6CASH2271"/>
+                    <ExternalProps>
+                        <Prop name="120" value="1"/>
+                        <Prop name="{7DC7AF79-1D00-4573-BE8A-A02C6FA30C5E}" value="1"/>
+                    </ExternalProps>
+                </Order>
+            </Orders>
+        </Visit>
+        <Visit visit="561447971" guid="{389B0D72-8P6D-4A94-A384-4710E1250A11}" finished="0">
+            <Guests count="1">
+                <Guest guestLabel="1"/>
+            </Guests>
+            <Orders>
+                <Order visit="561447971" orderIdent="256" guid="{0D71A6CD-7661-4B5B-88E6-D3D511C609F9}" url="http://code.uss.ru/qr?id=7D41FFF2FFBB4B6D92D9B068ABFAF35C0D71A6CD76614B5B88E6D3D511C609F92700EFC7" orderName="6" version="2" crc32="-2008184728" orderSum="152700" unpaidSum="138700" discountSum="0" totalPieces="3000" seqNumber="2" paid="0" finished="0" openTime="2023-06-17T22:44:34" kdsstate="sent" dontcheckLicense="1">
+                    <Creator id="1022476" code="212" name="Chichkov">
+                        <Role id="1103800" code="10011" name="Администраторы"/>
+                    </Creator>
+                    <Waiter id="1022476" code="212" name="Chichkov">
+                        <Role id="1103800" code="10011" name="Администраторы"/>
+                    </Waiter>
+                    <OrderCategory id="1106953" code="8" name="Основная 20%"/>
+                    <OrderType id="1126326" code="3" name="На месте"/>
+                    <Table id="1870643" code="3665" name="6"/>
+                    <Station id="12898" code="1" name="LKK7CASH2171"/>
+                    <ExternalProps>
+                        <Prop name="120" value="1"/>
+                        <Prop name="{7DC7AF79-1D00-4573-BE8A-A02C6FA3B430}" value="B94"/>
+                    </ExternalProps>
+                </Order>
+            </Orders>
+        </Visit>
+        <Visit visit="561447972" guid="{9154C993-D5CE-4E22-89D6-5890532089CA}" finished="0">
+            <Guests count="1">
+                <Guest guestLabel="1"/>
+            </Guests>
+            <Orders>
+                <Order visit="561447972" orderIdent="256" guid="{21A12423-2C05-4C95-9F68-755050D615AE}" url="http://code.uss.ru/qr?id=9D41FFF2FFBB4B6D92D9B068ABFAF43C38A124232C054C959F68755050D615AE20072BEC" orderName="1" version="0" crc32="0" orderSum="0" unpaidSum="0" discountSum="0" totalPieces="0" seqNumber="3" paid="1" finished="0" openTime="2023-07-16T23:18:49">
+                    <Creator id="1063792" code="14492" name="Kris">
+                        <Role id="1108550" code="10016" name="Администраторы _"/>
+                    </Creator>
+                    <Waiter id="1063793" code="14492" name="Kris">
+                        <Role id="1108550" code="10016" name="Администраторы _"/>
+                    </Waiter>
+                    <OrderCategory id="1106953" code="8" name="Основная 20%"/>
+                    <OrderType id="10469" code="9001" name="не выбрано"/>
+                    <Table id="1060886" code="5161" name="1"/>
+                    <Station id="15898" code="1" name="RK5CASH2171"/>
+                    <ExternalProps>
+                        <Prop name="{71F830D3-2DE3-4F74-B8F6-0BF199291C86}" value="{HgCC15A2-3973-4CD9-A267-B14E1384DF78}"/>
+                        <Prop name="{7DC7AF79-1P00-4573-BE8A-A02C6FA4B430}" value="B95"/>
+                    </ExternalProps>
+                </Order>
+            </Orders>
+        </Visit>
+        <Visit visit="561447973" guid="{32A37747-CC6D-41D4-B7FE-C958B40B77A9}" finished="0">
+            <Guests count="1">
+                <Guest guestLabel="1"/>
+            </Guests>
+            <Orders>
+                <Order visit="561447973" orderIdent="256" guid="{EEC5F534-6DA0-4BC1-AC74-87244E8118A2}" url="http://code.uss.ru/qr?id=9D41FFF2FFBB4B6D92D9B068ABFAF43CEEC5F5346DA04BC1AC7487244E8118A282277988" orderName="2" version="3" crc32="-1147547198" orderSum="97800" unpaidSum="97800" discountSum="0" totalPieces="2000" seqNumber="4" paid="0" finished="0" openTime="2023-06-16T16:05:44" kdsstate="sent">
+                    <Creator id="1007877" code="3167" name="Morozov">
+                        <Role id="1103800" code="10011" name="Администраторы"/>
+                    </Creator>
+                    <Waiter id="1007877" code="3167" name="Morozov">
+                        <Role id="1103800" code="10011" name="Администраторы"/>
+                    </Waiter>
+                    <OrderCategory id="1106953" code="8" name="Основная 20%"/>
+                    <OrderType id="1126328" code="5" name="Доставка"/>
+                    <Table id="1066887" code="5162" name="2"/>
+                    <Station id="25848" code="1" name="RK7CASH2271"/>
+                    <ExternalProps>
+                        <Prop name="{71F837G9-2DE3-4F74-B8F6-0BF199291C87}" value="{BACC15A2-3973-4CD9-A267-B14E1454DF78}"/>
+                        <Prop name="{7DC7AF79-1D00-4743-BE8A-A02C6FA3B430}" value="B96"/>
+                    </ExternalProps>
+                </Order>
+            </Orders>
+        </Visit>
+    </CommandResult>
+</RK7QueryResult>
